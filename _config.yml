@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sihan Ma"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Fourth-year Ph.D student at USYD, working on 3D human motion, human-object interaction."
 repository               : "xymsh/xymsh.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Sihan Ma"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : ""
+  avatar           : "images/Sihan Ma.png"
+  bio              : "Ph.D student at USYD."
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/sihanma0"
+  twitter          : "sihanma0"
   vine             :
   weibo            :
   xing             :
