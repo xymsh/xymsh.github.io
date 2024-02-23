@@ -46,9 +46,10 @@ My research interest includes 3D human motion capture and generation, human-obje
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2021.01 - now*, Ph.D in Computer Science. 
-- *2019.03 - 2020.05*, MPhil in Computer Science. Thesis: Image Matting via Deep Learning. 
-- *2014.09 - 2018.7*, B.S. in Software Engineering. 
+- *2021.01 - now*, The Universiyt of Sydney, Ph.D in Computer Science. 
+- *2019.03 - 2020.05*, The Universiyt of Sydney, MPhil in Computer Science. Thesis: Image Matting via Deep Learning. 
+- *2014.09 - 2018.07*, Wuhan University, B.S. in Software Engineering. 
+- *2016.08 - 2017.01*, The University of Macau. Exchange student.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
