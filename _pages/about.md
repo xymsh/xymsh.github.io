@@ -28,16 +28,22 @@ My research interests include 3D human-centric visual perception and generation,
 
 \* means equal contribution.
 
-- <a href="https://arxiv.org/abs/2306.16736">GraMMaR: Ground-aware Motion Model for 3D Human Motion Reconstruction</a>,  
+[GraMMaR: Ground-aware Motion Model for 3D Human Motion Reconstruction](https://arxiv.org/abs/2306.16736)
+
+**Sihan Ma**, Qiong Cao, Hongwei Yi, Jing Zhang, Dacheng Tao.
+
+**ACM Multimedia 2023**, [Code](https://github.com/xymsh/GraMMaR)
+
+<!-- - <a href="https://arxiv.org/abs/2306.16736">GraMMaR: Ground-aware Motion Model for 3D Human Motion Reconstruction</a>,  
   - <strong>Sihan Ma</strong>, Qiong Cao, Hongwei Yi, Jing Zhang, Dacheng Tao.
   - <strong>ACM Multimedia 2023</strong> | <a href="https://github.com/xymsh/GraMMaR">Code</a>
 
 <li><a href="https://arxiv.org/abs/2203.16828">Rethinking portrait matting with privacy preserving</a>,  
-      <strong>Sihan Ma</strong>, Jizhizi Li, Jizhizi Li, Jing Zhang, He Zhang, Dacheng Tao.
+      <strong>Sihan Ma</strong>, Jizhizi Li, Jing Zhang, He Zhang, Dacheng Tao.
       <strong>IJCV 2023</strong> | <a href="https://github.com/ViTAE-Transformer/P3M-Net">Code</a> </li>
 
-<li><a href="https://arxiv.org/pdf/2104.14222.pdf">Privacy-Preserving Portrait Matting</a>,  
-      Jizhizi Li\*, <strong>Sihan Ma\*</strong>, Jing Zhang, Dacheng Tao.
+- <a href="https://arxiv.org/pdf/2104.14222.pdf">Privacy-Preserving Portrait Matting</a>,  
+      Jizhizi Li\*, <strong>Sihan Ma</strong>\*, Jing Zhang, Dacheng Tao.
       <strong>ACM Multimedia 2021</strong> | <a href="https://github.com/JizhiziLi/P3M">Code</a> </li>
 
 <li><a href="https://ieeexplore.ieee.org/document/9386242">Terra: A Smart and Sensible Digital Twin Framework for Robust Robot Deployment in Challenging Environments</a>,  
@@ -50,7 +56,7 @@ My research interests include 3D human-centric visual perception and generation,
 
 <li><a href="https://www.ijcai.org/proceedings/2018/352">Self-Representative Manifold Concept Factorization with Adaptive Neighbors for Clustering</a>,  
       <strong>Sihan Ma</strong>, Lefei Zhang, Wenbin Hu, Yipeng Zhang, Jia Wu, Xuelong Li.
-      <strong>IJCAI 2018</strong></li>
+      <strong>IJCAI 2018</strong></li> -->
 
 # 📖 Educations
 - *2021.01 - now*, Ph.D in Computer Science, The Universiyt of Sydney (USYD).
