@@ -16,10 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-My research interest includes 3D human motion capture and generation, human-object interaction. 
+I am Sihan Ma, a Ph.D student at The University of Sydney (<strong>USYD</strong>), supervised by <a href="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a> and <a href="https://scholar.google.com.hk/citations?user=9jH5v74AAAAJ">Dr. Jing Zhang</a>. Formerly, I was a research intern in JD Explore Academy, where I worked closely with <a href="https://qiongcao.github.io/">Dr. Qiong Cao</a>. Before that, I obtained my MPhil degree at USYD, and bachelor's degree at Wuhan University (<strong>WHU</strong>). I worked closely with <a href="https://scholar.google.com/citations?user=BLKHwNwAAAAJ">Prof. Lefei Zhang</a> at WHU. 
 
-<!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
+My research interests include 3D human-centric visual perception and generation, human-object interaction, portrait image matting. 
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -27,23 +26,31 @@ My research interest includes 3D human motion capture and generation, human-obje
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+\* means equal contribution.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<li><a href="https://arxiv.org/abs/2306.16736">GraMMaR: Ground-aware Motion Model for 3D Human Motion Reconstruction</a>,  
+      <strong>Sihan Ma</strong>, Qiong Cao, Hongwei Yi, Jing Zhang, Dacheng Tao.
+      <strong>ACM Multimedia 2023</strong> | <a href="https://github.com/xymsh/GraMMaR">Code</a> </li>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+<li><a href="https://arxiv.org/abs/2203.16828">Rethinking portrait matting with privacy preserving</a>,  
+      <strong>Sihan Ma</strong>, Jizhizi Li, Jizhizi Li, Jing Zhang, He Zhang, Dacheng Tao.
+      <strong>IJCV 2023</strong> | <a href="https://github.com/ViTAE-Transformer/P3M-Net">Code</a> </li>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+<li><a href="https://arxiv.org/pdf/2104.14222.pdf">Privacy-Preserving Portrait Matting</a>,  
+      Jizhizi Li\*, <strong>Sihan Ma\*</strong>, Jing Zhang, Dacheng Tao.
+      <strong>ACM Multimedia 2021</strong> | <a href="https://github.com/JizhiziLi/P3M">Code</a> </li>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<li><a href="https://ieeexplore.ieee.org/document/9386242">Terra: A Smart and Sensible Digital Twin Framework for Robust Robot Deployment in Challenging Environments</a>,  
+      Yamin Mo, <strong>Sihan Ma</strong>, Haoran Gong, Zhe Chen, Jing Zhang, Dacheng Tao.
+      <strong>IoT-J 2021</strong></li>
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S003132032030251X">Multistage Attention Network for Image Inpainting</a>,  
+      Ning Wang, <strong>Sihan Ma</strong>, Jingyuan Li, Yipeng Zhang, Lefei Zhang.
+      <strong>PR 2020</strong></li>
+
+<li><a href="https://www.ijcai.org/proceedings/2018/352">Self-Representative Manifold Concept Factorization with Adaptive Neighbors for Clustering</a>,  
+      <strong>Sihan Ma</strong>, Lefei Zhang, Wenbin Hu, Yipeng Zhang, Jia Wu, Xuelong Li.
+      <strong>IJCAI 2018</strong></li>
 
 # 📖 Educations
 - *2021.01 - now*, Ph.D in Computer Science, The Universiyt of Sydney (USYD).
@@ -51,11 +58,12 @@ My research interest includes 3D human motion capture and generation, human-obje
 - *2014.09 - 2018.07*, Bachelor in Software Engineering, Wuhan University (WHU).
 - *2016.08 - 2017.01*, Exchange student. The University of Macau.
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
 # 💻 Internships
-- *2021.12 - 2022.06*, JD Explore Academy, mentored by Dr. Jing Zhang and Prof. Dacheng Tao. Wokring on 3D human motion reconstruction, collaborating with Dr. Qiong Cao.
-- *2018.12 - 2021.12*, UBTECH Sydney Artificial Intelligence Center, USYD, supervised by Dr. Jing Zhang and Prof. Dacheng Tao. Working on portrait image matting, robot development. Proposed the first large-scale privacy-preserved portrait image matting dataset and the sota model called P3M (remains sota till now). Developed a digital twin robot system, published on IoT-J.
-- *2017.04 - 2018.8*, SIGMA Lab, Wuhan University, mentored by Prof. Lefei Zhang. Working on data representation and clustering.
+- *2021.12 - 2022.06*, JD Explore Academy, mentored by Dr. Jing Zhang and Prof. Dacheng Tao. 
+  - Wokring on 3D human motion reconstruction, collaborating with Dr. Qiong Cao.
+- *2018.12 - 2021.12*, UBTECH Sydney Artificial Intelligence Center, USYD, supervised by Dr. Jing Zhang and Prof. Dacheng Tao. 
+  - Working on portrait image matting, robot development. 
+  - Proposed the first large-scale privacy-preserved portrait image matting dataset and the baseline framework called P3M. 
+  - Developed a digital twin robot system, published on IoT-J.
+- *2017.04 - 2018.8*, SIGMA Lab, Wuhan University, mentored by Prof. Lefei Zhang. 
+  - Working on data representation and clustering.
