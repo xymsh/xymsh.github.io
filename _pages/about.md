@@ -28,9 +28,9 @@ My research interests include 3D human-centric visual perception and generation,
 
 \* means equal contribution.
 
-<li><a href="https://arxiv.org/abs/2306.16736">GraMMaR: Ground-aware Motion Model for 3D Human Motion Reconstruction</a>,  
-      <strong>Sihan Ma</strong>, Qiong Cao, Hongwei Yi, Jing Zhang, Dacheng Tao.
-      <strong>ACM Multimedia 2023</strong> | <a href="https://github.com/xymsh/GraMMaR">Code</a> </li>
+- <a href="https://arxiv.org/abs/2306.16736">GraMMaR: Ground-aware Motion Model for 3D Human Motion Reconstruction</a>,  
+  - <strong>Sihan Ma</strong>, Qiong Cao, Hongwei Yi, Jing Zhang, Dacheng Tao.
+  - <strong>ACM Multimedia 2023</strong> | <a href="https://github.com/xymsh/GraMMaR">Code</a>
 
 <li><a href="https://arxiv.org/abs/2203.16828">Rethinking portrait matting with privacy preserving</a>,  
       <strong>Sihan Ma</strong>, Jizhizi Li, Jizhizi Li, Jing Zhang, He Zhang, Dacheng Tao.
