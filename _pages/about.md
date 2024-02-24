@@ -78,10 +78,10 @@ Ning Wang, **Sihan Ma**, Jingyuan Li, Yipeng Zhang, Lefei Zhang.
 
 # 💻 Internships
 - *2021.12 - 2022.06*, JD Explore Academy, mentored by Dr. Jing Zhang and Prof. Dacheng Tao. 
-  - Wokring on 3D human motion reconstruction, collaborating with Dr. Qiong Cao.
+  - Worked on 3D human motion reconstruction, collaborating with Dr. Qiong Cao.
 - *2018.12 - 2021.12*, UBTECH Sydney Artificial Intelligence Center, USYD, supervised by Dr. Jing Zhang and Prof. Dacheng Tao. 
-  - Working on portrait image matting, robot development. 
+  - Worked on portrait image matting, robot development. 
   - Proposed the first large-scale privacy-preserved portrait image matting dataset and the baseline framework called P3M. 
   - Developed a digital twin robot system, published on IoT-J.
 - *2017.04 - 2018.8*, SIGMA Lab, Wuhan University, mentored by Prof. Lefei Zhang. 
-  - Working on data representation and clustering.
+  - Worked on data representation and clustering.
