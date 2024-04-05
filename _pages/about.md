@@ -28,6 +28,13 @@ My research interests include 3D human-centric visual perception and generation,
 
 \* means equal contribution.
 
+[Contact-aware Human Motion Generation from Textual Descriptions](https://xymsh.github.io/RICH-CAT/)
+
+**Sihan Ma**, Qiong Cao, Jing Zhang, Dacheng Tao.
+
+[project](https://xymsh.github.io/RICH-CAT/), [paper](https://arxiv.org/pdf/2403.15709.pdf), [code](https://github.com/xymsh/RICH-CAT)
+
+
 [GraMMaR: Ground-aware Motion Model for 3D Human Motion Reconstruction](https://arxiv.org/abs/2306.16736)
 
 **Sihan Ma**, Qiong Cao, Hongwei Yi, Jing Zhang, Dacheng Tao.
