@@ -32,14 +32,14 @@ My research interests include 3D human-centric visual perception and generation,
 
 **Sihan Ma**, Jing Zhang, Qiong Cao, Dacheng Tao.
 
-**Technical report**, [[project]](https://xymsh.github.io/PoseBench/), [[paper]](https://arxiv.org/abs/2406.14367)
+**Technical report 2024**, [[project]](https://xymsh.github.io/PoseBench/), [[paper]](https://arxiv.org/abs/2406.14367)
 
 
 [Contact-aware Human Motion Generation from Textual Descriptions](https://xymsh.github.io/RICH-CAT/)
 
 **Sihan Ma**, Qiong Cao, Jing Zhang, Dacheng Tao.
 
-**Under review**, 
+**Under review 2024**, 
 [[project]](https://xymsh.github.io/RICH-CAT/), [[paper]](https://arxiv.org/pdf/2403.15709.pdf), [[code]](https://github.com/xymsh/RICH-CAT)
 
 
