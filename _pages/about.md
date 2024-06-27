@@ -52,7 +52,7 @@ My research interests include 3D human-centric visual perception and generation,
 
 [Rethinking portrait matting with privacy preserving](https://arxiv.org/abs/2203.16828)
 
-**Sihan Ma**, Jizhizi Li, Jing Zhang, He Zhang, Dacheng Tao.
+**Sihan Ma**\*, Jizhizi Li\*, Jing Zhang, He Zhang, Dacheng Tao.
 
 **IJCV 2023**, [[code]](https://github.com/ViTAE-Transformer/P3M-Net)
 
