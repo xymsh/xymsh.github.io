@@ -28,32 +28,40 @@ My research interests include 3D human-centric visual perception and generation,
 
 \* means equal contribution.
 
+[PoseBench: Benchmarking the Robustness of Pose Estimation Models under Corruptions](https://xymsh.github.io/PoseBench/)
+
+**Sihan Ma**, Jing Zhang, Qiong Cao, Dacheng Tao.
+
+**Technical report**, [[project]](https://xymsh.github.io/PoseBench/), [[paper]](https://arxiv.org/abs/2406.14367)
+
+
 [Contact-aware Human Motion Generation from Textual Descriptions](https://xymsh.github.io/RICH-CAT/)
 
 **Sihan Ma**, Qiong Cao, Jing Zhang, Dacheng Tao.
 
-[project](https://xymsh.github.io/RICH-CAT/), [paper](https://arxiv.org/pdf/2403.15709.pdf), [code](https://github.com/xymsh/RICH-CAT)
+**Under review**, 
+[[project]](https://xymsh.github.io/RICH-CAT/), [[paper]](https://arxiv.org/pdf/2403.15709.pdf), [[code]](https://github.com/xymsh/RICH-CAT)
 
 
 [GraMMaR: Ground-aware Motion Model for 3D Human Motion Reconstruction](https://arxiv.org/abs/2306.16736)
 
 **Sihan Ma**, Qiong Cao, Hongwei Yi, Jing Zhang, Dacheng Tao.
 
-**ACM Multimedia 2023**, [code](https://github.com/xymsh/GraMMaR)
+**ACM Multimedia 2023**, [[code]](https://github.com/xymsh/GraMMaR)
 
 
 [Rethinking portrait matting with privacy preserving](https://arxiv.org/abs/2203.16828)
 
 **Sihan Ma**, Jizhizi Li, Jing Zhang, He Zhang, Dacheng Tao.
 
-**IJCV 2023**, [code](https://github.com/ViTAE-Transformer/P3M-Net)
+**IJCV 2023**, [[code]](https://github.com/ViTAE-Transformer/P3M-Net)
 
 
 [Privacy-Preserving Portrait Matting](https://arxiv.org/pdf/2104.14222.pdf)
 
 Jizhizi Li\*, **Sihan Ma**\*, Jing Zhang, Dacheng Tao.
 
-**ACM Multimedia 2021**, [code](https://github.com/JizhiziLi/P3M)
+**ACM Multimedia 2021**, [[code]](https://github.com/JizhiziLi/P3M)
 
 
 [Terra: A Smart and Sensible Digital Twin Framework for Robust Robot Deployment in Challenging Environments](https://ieeexplore.ieee.org/document/9386242)
